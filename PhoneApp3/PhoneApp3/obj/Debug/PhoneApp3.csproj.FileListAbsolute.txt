@@ -1,0 +1,13 @@
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\Bin\Debug\ApplicationIcon.png
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\Bin\Debug\Background.png
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.dll
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.pdb
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\Bin\Debug\AppManifest.xaml
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.xap
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\obj\Debug\ResolveAssemblyReference.cache
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\obj\Debug\App.g.i.cs
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\obj\Debug\MainPage.g.i.cs
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.g.resources
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.dll
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.pdb
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp3\PhoneApp3\obj\Debug\XapCacheFile.xml

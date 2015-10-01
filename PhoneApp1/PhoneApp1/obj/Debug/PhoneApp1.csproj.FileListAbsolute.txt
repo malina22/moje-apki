@@ -1,0 +1,12 @@
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\obj\Debug\ResolveAssemblyReference.cache
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\obj\Debug\App.g.i.cs
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.i.cs
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.xap
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
+F:\STUDIA\IV SEMESTR\S Y S T E M Y   W B U D O W A N E\PhoneApp1\PhoneApp1\Bin\Debug\CALCLTR.png

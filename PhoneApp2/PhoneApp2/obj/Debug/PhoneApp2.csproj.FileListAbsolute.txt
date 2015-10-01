@@ -1,0 +1,13 @@
+E:\ProgramPhone\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+E:\ProgramPhone\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+E:\ProgramPhone\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+E:\ProgramPhone\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+E:\ProgramPhone\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+E:\ProgramPhone\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+E:\ProgramPhone\PhoneApp2\PhoneApp2\obj\Debug\ResolveAssemblyReference.cache
+E:\ProgramPhone\PhoneApp2\PhoneApp2\obj\Debug\App.g.i.cs
+E:\ProgramPhone\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.i.cs
+E:\ProgramPhone\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+E:\ProgramPhone\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+E:\ProgramPhone\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+E:\ProgramPhone\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
